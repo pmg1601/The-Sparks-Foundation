@@ -1,2 +1,2 @@
-# The-Sparks-Foundation
-This repository contains some tasks that I have done during my Internship in The Sparks Foundation #GRIPFEB21
+I applied for this internship in Feb, 21 for the role of `Data Scientist and Business Analytics`.
+#GRIPFEB21
